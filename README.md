@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Seth</h1>
 <h3 align="center">Data science enthusiast from India</h3>
-<img align="right" alt="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethyash52&label=Profile%20views&color=0e75b6&style=flat" alt="sethyash52" /> </p>
 
