@@ -22,6 +22,6 @@
 
 👨‍🎓 I am currently pursuing MTech. in Transportation Systems Engineering from IISc Bangalore
 
-📖 I'm currently learning - Deep learning, NLP, Computer Vision
+📖 I'm currently learning - _Deep learning, NLP, Computer Vision_
 
-😊 Words that describes me - Self-motivated, focused, learning oriented
+😊 Words that describes me - _Self-motivated, focused, learning oriented_
