@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethyash52&show_icons=true&locale=en&layout=compact" alt="sethyash52" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethyash52&show_icons=true&locale=en" alt="sethyash52" /></p>
+
+I am currently pursuing masters in Transportation Systems Engineering
