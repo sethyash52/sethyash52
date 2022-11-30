@@ -20,4 +20,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethyash52&show_icons=true&locale=en" alt="sethyash52" /></p>
 
-I am currently pursuing masters in Transportation Systems Engineering
+👨‍🎓 I am currently pursuing MTech. in Transportation Systems Engineering from IISc Bangalore
+
+📖 I'm currently learning - Deep learning, NLP, Computer Vision
+
+😊 Words that describes me - Self-motivated, focused, learning oriented
