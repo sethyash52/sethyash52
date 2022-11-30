@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)](https://sethyash52.io)
 
 <h1 align="center">Hi 👋, I'm Yash Seth</h1>
-<h3 align="center">Data science enthusiast from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethyash52&label=Profile%20views&color=0e75b6&style=flat" alt="sethyash52" /> </p>
